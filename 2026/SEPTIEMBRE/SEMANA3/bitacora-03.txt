@@ -54,6 +54,14 @@ actividad: Genera el archivo físico main.txt dentro del repositorio para regist
 impedimentos: Sin impedimentos operativos
 plan: Crea el archivo base necesario en el espacio de trabajo.
 ________________________________________
+id: 8
+fecha: 17/09/2026
+hora: 3:44pm - 3:50pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Añade el archivo main.txt desde el directorio de trabajo hacia el área de preparación (Staging Area).
+impedimentos: Sin impedimentos operativos
+plan: Mueve el archivo procesado hacia el Staging Area.
+________________________________________
 id: 11
 fecha: 17/09/2026
 hora: 4:10pm - 4:15pm
