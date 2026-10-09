@@ -21,3 +21,11 @@ autor: Marco Antonio Suarez Gonzalez
 actividad: Registra los cambios de configuración en el historial mediante un commit en la rama develop.
 impedimentos: Sin impedimentos operativos
 plan: Consolida el commit correspondiente a la rama develop.
+________________________________________
+id: 14
+fecha: 17/09/2026
+hora: 4:25pm - 4:30pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Crea la rama feature/reportes e ingresa directamente a ella para iniciar el nuevo módulo.
+impedimentos: Sin impedimentos operativos
+plan: Crea la rama de características feature/reportes.
