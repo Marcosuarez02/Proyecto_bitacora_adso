@@ -70,6 +70,14 @@ actividad: Sella de forma permanente los cambios presentes en el Staging Area as
 impedimentos: Sin impedimentos operativos
 plan: Consolida los cambios en el historial local mediante un commit.
 ________________________________________
+id: 10
+fecha: 17/09/2026
+hora: 3:56pm - 4:02pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Crea una nueva rama denominada develop y conmuta automáticamente a ella de forma simultánea.
+impedimentos: Sin impedimentos operativos
+plan: Crea y salta a la nueva rama de integración develop.
+________________________________________
 id: 11
 fecha: 17/09/2026
 hora: 4:10pm - 4:15pm
