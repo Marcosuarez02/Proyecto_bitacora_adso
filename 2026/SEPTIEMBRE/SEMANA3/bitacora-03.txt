@@ -29,3 +29,11 @@ autor: Marco Antonio Suarez Gonzalez
 actividad: Crea la rama feature/reportes e ingresa directamente a ella para iniciar el nuevo módulo.
 impedimentos: Sin impedimentos operativos
 plan: Crea la rama de características feature/reportes.
+________________________________________
+id: 15
+fecha: 17/09/2026
+hora: 4:30pm - 4:35pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Desarrolla el archivo funcional reporte.js incorporando su respectivo contenido de código.
+impedimentos: Sin impedimentos operativos
+plan: Diseña y escribe el archivo base de reportes.
