@@ -6,6 +6,14 @@ actividad: Analiza y visualiza el proyecto de defensa civil presentado por Guill
 impedimentos: Sin impedimentos operativos
 plan: Continúa la jornada formativa con la sesión práctica en Git Bash.
 ________________________________________
+id: 2
+fecha: 17/09/2026
+hora: 2:20pm - 2:40pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Ejecuta la actividad orientada por el instructor consistente en recuperar un archivo histórico previamente eliminado.
+impedimentos: Sin impedimentos operativos
+plan: Inicia sesión práctica en la interfaz de comandos Git Bash.
+________________________________________
 id: 11
 fecha: 17/09/2026
 hora: 4:10pm - 4:15pm
