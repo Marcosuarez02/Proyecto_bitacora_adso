@@ -53,3 +53,11 @@ autor: Marco Antonio Suarez Gonzalez
 actividad: Asegura y sella el archivo de reportes en el historial del repositorio con un commit.
 impedimentos: Sin impedimentos operativos
 plan: Registra los cambios iniciales de reportes en la historia del proyecto.
+________________________________________
+id: 18
+fecha: 17/09/2026
+hora: 4:48pm - 4:50pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Añade una segunda modificación dentro del archivo reporte.js utilizando el editor de texto.
+impedimentos: Sin impedimentos operativos
+plan: Agrega modificaciones secundarias al código fuente.
