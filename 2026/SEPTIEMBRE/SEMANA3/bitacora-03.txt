@@ -45,3 +45,11 @@ autor: Marco Antonio Suarez Gonzalez
 actividad: Traslada el archivo reporte.js hacia el área de preparación.
 impedimentos: Sin impedimentos operativos
 plan: Prepara el archivo de reporte en el Staging Area.
+________________________________________
+id: 17
+fecha: 17/09/2026
+hora: 4:40pm - 4:48pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Asegura y sella el archivo de reportes en el historial del repositorio con un commit.
+impedimentos: Sin impedimentos operativos
+plan: Registra los cambios iniciales de reportes en la historia del proyecto.
