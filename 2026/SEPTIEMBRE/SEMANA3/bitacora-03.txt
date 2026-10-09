@@ -22,6 +22,14 @@ actividad: Ingresa a Git Bash y crea una nueva carpeta en el disco local denomin
 impedimentos: Sin impedimentos operativos
 plan: Verifica en consola la existencia física de la carpeta creada.
 ________________________________________
+id: 4
+fecha: 17/09/2026
+hora: 2:50pm - 2:55pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Ejecuta el comando de listado en consola para verificar la creación correcta del directorio lab-git y su ubicación en el sistema.
+impedimentos: Sin impedimentos operativos
+plan: Accede formalmente a la ruta del directorio para iniciar la configuración del entorno.
+________________________________________
 id: 11
 fecha: 17/09/2026
 hora: 4:10pm - 4:15pm
