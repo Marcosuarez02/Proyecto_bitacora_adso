@@ -30,6 +30,15 @@ actividad: Ejecuta el comando de listado en consola para verificar la creación 
 impedimentos: Sin impedimentos operativos
 plan: Accede formalmente a la ruta del directorio para iniciar la configuración del entorno.
 ________________________________________
+id: 5
+fecha: 17/09/2026
+hora: 2:55pm - 3:00pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Accede mediante comandos de navegación a la carpeta de trabajo lab-git dejando listo el entorno antes de la pausa.
+impedimentos: Sin impedimentos operativos
+plan: Toma el descanso institucional de 3:00 pm a 3:30 pm y retoma actividades finalizada la pausa.
+________________________________________
+
 id: 11
 fecha: 17/09/2026
 hora: 4:10pm - 4:15pm
