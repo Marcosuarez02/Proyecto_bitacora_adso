@@ -62,6 +62,14 @@ actividad: Añade el archivo main.txt desde el directorio de trabajo hacia el á
 impedimentos: Sin impedimentos operativos
 plan: Mueve el archivo procesado hacia el Staging Area.
 ________________________________________
+id: 9
+fecha: 17/09/2026
+hora: 3:50pm - 3:56pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Sella de forma permanente los cambios presentes en el Staging Area asignando identificador hash y mensaje descriptivo.
+impedimentos: Sin impedimentos operativos
+plan: Consolida los cambios en el historial local mediante un commit.
+________________________________________
 id: 11
 fecha: 17/09/2026
 hora: 4:10pm - 4:15pm
