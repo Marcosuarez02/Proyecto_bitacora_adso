@@ -1,6 +1,86 @@
+id: 1
+fecha: 17/09/2026
+hora: 12:45pm - 2:20pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Analiza y visualiza el proyecto de defensa civil presentado por Guillermo, aprendiz en etapa práctica del SENA, observando los avances demostrados.
+impedimentos: Sin impedimentos operativos
+plan: Continúa la jornada formativa con la sesión práctica en Git Bash.
+________________________________________
+id: 2
+fecha: 17/09/2026
+hora: 2:20pm - 2:40pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Ejecuta la actividad orientada por el instructor consistente en recuperar un archivo histórico previamente eliminado.
+impedimentos: Sin impedimentos operativos
+plan: Inicia sesión práctica en la interfaz de comandos Git Bash.
+________________________________________
+id: 3
+fecha: 17/09/2026
+hora: 2:40pm - 2:50pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Ingresa a Git Bash y crea una nueva carpeta en el disco local denominada lab-git.
+impedimentos: Sin impedimentos operativos
+plan: Verifica en consola la existencia física de la carpeta creada.
+________________________________________
+id: 4
+fecha: 17/09/2026
+hora: 2:50pm - 2:55pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Ejecuta el comando de listado en consola para verificar la creación correcta del directorio lab-git y su ubicación en el sistema.
+impedimentos: Sin impedimentos operativos
+plan: Accede formalmente a la ruta del directorio para iniciar la configuración del entorno.
+________________________________________
+id: 5
+fecha: 17/09/2026
+hora: 2:55pm - 3:00pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Accede mediante comandos de navegación a la carpeta de trabajo lab-git dejando listo el entorno antes de la pausa.
+impedimentos: Sin impedimentos operativos
+plan: Toma el descanso institucional de 3:00 pm a 3:30 pm y retoma actividades finalizada la pausa.
+________________________________________
+id: 6
+fecha: 17/09/2026
+hora: 3:30pm - 3:38pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Convierte la carpeta en un repositorio oficial de Git e inicializa el directorio oculto .git con los metadatos correspondientes.
+impedimentos: Sin impedimentos operativos
+plan: Inicializa formalmente el repositorio Git local.
+________________________________________
+id: 7
+fecha: 17/09/2026
+hora: 3:38pm - 3:44pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Genera el archivo físico main.txt dentro del repositorio para registrarlo en el historial del control de versiones.
+impedimentos: Sin impedimentos operativos
+plan: Crea el archivo base necesario en el espacio de trabajo.
+________________________________________
+id: 8
+fecha: 17/09/2026
+hora: 3:44pm - 3:50pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Añade el archivo main.txt desde el directorio de trabajo hacia el área de preparación (Staging Area).
+impedimentos: Sin impedimentos operativos
+plan: Mueve el archivo procesado hacia el Staging Area.
+________________________________________
+id: 9
+fecha: 17/09/2026
+hora: 3:50pm - 3:56pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Sella de forma permanente los cambios presentes en el Staging Area asignando identificador hash y mensaje descriptivo.
+impedimentos: Sin impedimentos operativos
+plan: Consolida los cambios en el historial local mediante un commit.
+________________________________________
+id: 10
+fecha: 17/09/2026
+hora: 3:56pm - 4:02pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Crea una nueva rama denominada develop y conmuta automáticamente a ella de forma simultánea.
+impedimentos: Sin impedimentos operativos
+plan: Crea y salta a la nueva rama de integración develop.
+________________________________________
 id: 11
 fecha: 17/09/2026
-hora: 4:02pm - 4:08pm
+hora: 4:10pm - 4:15pm
 autor: Marco Antonio Suarez Gonzalez
 actividad: Redacta y crea un nuevo archivo denominado config.json con el texto descriptivo de la estructura develop.
 impedimentos: Sin impedimentos operativos
@@ -8,7 +88,7 @@ plan: Construye el archivo de configuración dentro de la rama develop.
 ________________________________________
 id: 12
 fecha: 17/09/2026
-hora: 4:08pm - 4:14pm
+hora: 4:15pm - 4:20pm
 autor: Marco Antonio Suarez Gonzalez
 actividad: Envía al área de preparación el archivo de configuración config.json.
 impedimentos: Sin impedimentos operativos
@@ -16,7 +96,7 @@ plan: Agrega el archivo de configuración al área de preparación de la rama.
 ________________________________________
 id: 13
 fecha: 17/09/2026
-hora: 4:14pm - 4:20pm
+hora: 4:20pm - 4:25pm
 autor: Marco Antonio Suarez Gonzalez
 actividad: Registra los cambios de configuración en el historial mediante un commit en la rama develop.
 impedimentos: Sin impedimentos operativos
@@ -25,6 +105,7 @@ ________________________________________
 id: 14
 fecha: 17/09/2026
 hora: 4:20pm - 4:26pm
+hora: 4:25pm - 4:30pm
 autor: Marco Antonio Suarez Gonzalez
 actividad: Crea la rama feature/reportes e ingresa directamente a ella para iniciar el nuevo módulo.
 impedimentos: Sin impedimentos operativos
@@ -32,7 +113,7 @@ plan: Crea la rama de características feature/reportes.
 ________________________________________
 id: 15
 fecha: 17/09/2026
-hora: 4:26pm - 4:32pm
+hora: 4:30pm - 4:35pm
 autor: Marco Antonio Suarez Gonzalez
 actividad: Desarrolla el archivo funcional reporte.js incorporando su respectivo contenido de código.
 impedimentos: Sin impedimentos operativos
@@ -40,7 +121,7 @@ plan: Diseña y escribe el archivo base de reportes.
 ________________________________________
 id: 16
 fecha: 17/09/2026
-hora: 4:32pm - 4:38pm
+hora: 4:35pm - 4:40pm
 autor: Marco Antonio Suarez Gonzalez
 actividad: Traslada el archivo reporte.js hacia el área de preparación.
 impedimentos: Sin impedimentos operativos
@@ -48,7 +129,7 @@ plan: Prepara el archivo de reporte en el Staging Area.
 ________________________________________
 id: 17
 fecha: 17/09/2026
-hora: 4:38pm - 4:44pm
+hora: 4:40pm - 4:48pm
 autor: Marco Antonio Suarez Gonzalez
 actividad: Asegura y sella el archivo de reportes en el historial del repositorio con un commit.
 impedimentos: Sin impedimentos operativos
@@ -56,7 +137,7 @@ plan: Registra los cambios iniciales de reportes en la historia del proyecto.
 ________________________________________
 id: 18
 fecha: 17/09/2026
-hora: 4:44pm - 4:50pm
+hora: 4:48pm - 4:50pm
 autor: Marco Antonio Suarez Gonzalez
 actividad: Añade una segunda modificación dentro del archivo reporte.js utilizando el editor de texto.
 impedimentos: Sin impedimentos operativos
@@ -64,7 +145,7 @@ plan: Agrega modificaciones secundarias al código fuente.
 ________________________________________
 id: 19
 fecha: 17/09/2026
-hora: 4:50pm - 4:56pm
+hora: 4:50pm - 4:58pm
 autor: Marco Antonio Suarez Gonzalez
 actividad: Prepara el archivo reporte.js incorporando las nuevas modificaciones realizadas.
 impedimentos: Sin impedimentos operativos
@@ -72,7 +153,7 @@ plan: Mueve las nuevas modificaciones al Staging Area.
 ________________________________________
 id: 20
 fecha: 17/09/2026
-hora: 4:56pm - 5:02pm
+hora: 4:58pm - 5:03pm
 autor: Marco Antonio Suarez Gonzalez
 actividad: Confirma y genera un commit para identificar la actualización del reporte funcional.
 impedimentos: Sin impedimentos operativos
@@ -80,7 +161,7 @@ plan: Consolida el commit correspondiente a la actualización de reportes.
 ________________________________________
 id: 21
 fecha: 17/09/2026
-hora: 5:02pm - 5:08pm
+hora: 5:03pm - 5:10pm
 autor: Marco Antonio Suarez Gonzalez
 actividad: Regresa a la rama principal de integración develop.
 impedimentos: Sin impedimentos operativos
@@ -88,7 +169,7 @@ plan: Conmuta nuevamente a la rama develop.
 ________________________________________
 id: 22
 fecha: 17/09/2026
-hora: 5:08pm - 5:15pm
+hora: 5:10pm - 5:15pm
 autor: Marco Antonio Suarez Gonzalez
 actividad: Fusiona en develop todos los avances completados en la rama feature/reportes.
 impedimentos: Sin impedimentos operativos
