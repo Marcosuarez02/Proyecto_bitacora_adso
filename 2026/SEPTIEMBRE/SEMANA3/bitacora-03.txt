@@ -14,6 +14,14 @@ actividad: Ejecuta la actividad orientada por el instructor consistente en recup
 impedimentos: Sin impedimentos operativos
 plan: Inicia sesión práctica en la interfaz de comandos Git Bash.
 ________________________________________
+id: 3
+fecha: 17/09/2026
+hora: 2:40pm - 2:50pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Ingresa a Git Bash y crea una nueva carpeta en el disco local denominada lab-git.
+impedimentos: Sin impedimentos operativos
+plan: Verifica en consola la existencia física de la carpeta creada.
+________________________________________
 id: 11
 fecha: 17/09/2026
 hora: 4:10pm - 4:15pm
