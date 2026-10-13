@@ -22,3 +22,11 @@ actividad: Introduce guía técnica de Git y proyecta material audiovisual progr
 impedimentos: Sin impedimentos operativos
 plan: Continúa con el análisis audiovisual del material didáctico.
 ________________________________________
+id: 4
+fecha: 03/09/2026
+hora: 2:20pm - 3:00pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Visualiza material didáctico audiovisual y analiza conceptos clave aplicables a Git.
+impedimentos: Sin impedimentos operativos
+plan: Inicia sesión de análisis grupal tras el receso formativo.
+________________________________________
