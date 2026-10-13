@@ -38,3 +38,11 @@ actividad: Desarrolla análisis grupal sobre la herramienta de control de versio
 impedimentos: Sin impedimentos operativos
 plan: Habilita espacio para la actividad práctica de registro de bitácora.
 ________________________________________
+id: 6
+fecha: 03/09/2026
+hora: 4:30pm - 5:30pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Desarrolla actividad práctica de bitácora y atiende postulaciones de representantes.
+impedimentos: Sin impedimentos operativos
+plan: Da paso a la actividad de transferencia de conocimiento técnico.
+________________________________________
