@@ -6,3 +6,11 @@ actividad: Inicia sesión formativa y registra asistencia formal de la jornada a
 impedimentos: Sin impedimentos operativos
 plan: Da paso a la ronda de exposiciones estudiantiles programadas.
 ________________________________________
+id: 2
+fecha: 03/09/2026
+hora: 1:10pm - 1:45pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Coordina exposiciones estudiantiles enfocadas en el uso y dominio de la terminal.
+impedimentos: Sin impedimentos operativos
+plan: Inicia sesión con la guía técnica de Git y la consola de comandos.
+________________________________________
