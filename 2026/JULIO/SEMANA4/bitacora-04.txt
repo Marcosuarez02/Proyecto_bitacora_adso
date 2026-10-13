@@ -1,0 +1,8 @@
+id: 1
+fecha: 30/07/2026
+hora: 1:15pm - 2:10pm
+autor: Andres Felipe Parra Aguilar
+actividad: Analiza material audiovisual del estudio de caso Challenger y redacta respuestas de reflexión inicial sobre falibilidad verbal y auditoría.
+impedimentos: Sin impedimentos operativos
+plan: Pasa a la fase de refactorización y depuración de registros en el Momento 3.
+________________________________________
