@@ -22,3 +22,11 @@ actividad: Analiza caso de estudio sobre problemática comunitaria del dengue e 
 impedimentos: Sin impedimentos operativos
 plan: Documenta los hallazgos para entrega en plataforma luego del receso.
 ________________________________________
+id: 4
+fecha: 20/08/2026
+hora: 3:30pm - 5:00pm
+autor: Miguel Serrano
+actividad: Participa en actividad interactiva grupal en Kahoot evaluando conceptos de guías previas.
+impedimentos: Sin impedimentos operativos
+plan: Refuerza temáticas donde se identificaron dudas durante la dinámica evaluativa.
+________________________________________
