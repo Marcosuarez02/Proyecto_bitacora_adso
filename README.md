@@ -1,5 +1,5 @@
 # Proyecto bitacora
 ## Integrantes :
-## Andres Parra
-## Marco Suarez
-## Miguel Serrano
+## Andres Felipe Parra
+## Marco Antonio Suarez
+## Miguel Angel Serrano
