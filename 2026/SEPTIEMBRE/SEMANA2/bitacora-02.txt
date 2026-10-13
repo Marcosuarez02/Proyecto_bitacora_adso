@@ -30,3 +30,11 @@ actividad: Participa en dinámica interactiva de Kahoot evaluando dominio de la 
 impedimentos: Sin impedimentos operativos
 plan: Inicia primera fase de la guía de flujos colaborativos Git Flow.
 ________________________________________
+id: 5
+fecha: 10/09/2026
+hora: 4:45pm - 5:30pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Inicia guía Git Flow desarrollando dinámica de nomenclatura La Mudanza del Caos.
+impedimentos: Sin impedimentos operativos
+plan: Pasa a la siguiente fase formativa de contextualización.
+________________________________________
