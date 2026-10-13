@@ -14,3 +14,11 @@ actividad: Ejecuta práctica de comandos CLI integrando los conceptos técnicos 
 impedimentos: Sin impedimentos operativos
 plan: Estudia y repasa el diccionario de comandos de la terminal para afianzar destrezas.
 ________________________________________
+id: 3
+fecha: 20/08/2026
+hora: 2:30pm - 3:00pm
+autor: Miguel Serrano
+actividad: Analiza caso de estudio sobre problemática comunitaria del dengue e identifica factores clave.
+impedimentos: Sin impedimentos operativos
+plan: Documenta los hallazgos para entrega en plataforma luego del receso.
+________________________________________
