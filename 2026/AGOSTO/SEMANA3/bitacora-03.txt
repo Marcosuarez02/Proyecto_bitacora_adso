@@ -6,3 +6,11 @@ actividad: Analiza y ejecuta la actividad de apropiación de conocimiento de la 
 impedimentos: Identifica la ausencia del comando tree en Git Bash y procede a visualizar estructuras con comandos alternos de listado.
 plan: Continúa con la ejecución práctica de la guía CLI.
 ________________________________________
+id: 2
+fecha: 20/08/2026
+hora: 1:40pm - 2:30pm
+autor: Miguel Serrano
+actividad: Ejecuta práctica de comandos CLI integrando los conceptos técnicos de la guía de aprendizaje.
+impedimentos: Sin impedimentos operativos
+plan: Estudia y repasa el diccionario de comandos de la terminal para afianzar destrezas.
+________________________________________
