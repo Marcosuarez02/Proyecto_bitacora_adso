@@ -54,3 +54,10 @@ actividad: Diligencia la lista de chequeo de transferencia siguiendo los lineami
 impedimentos: Sin impedimentos operativos
 plan: Registra las últimas actividades de la jornada formativa actual.
 ________________________________________
+id: 8
+fecha: 06/08/2026
+hora: 5:50pm - 6:30pm
+autor: Andres Felipe Parra Aguilar
+actividad: Concluye la revisión final de actividades y participa en la presentación grupal.
+impedimentos: Sin impedimentos operativos
+plan: Verifica el cumplimiento de todos los campos obligatorios antes de la entrega final.
