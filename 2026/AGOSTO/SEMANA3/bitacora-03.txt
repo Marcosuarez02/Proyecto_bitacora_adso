@@ -1,0 +1,8 @@
+id: 1
+fecha: 20/08/2026
+hora: 12:45pm - 1:40pm
+autor: Miguel Serrano
+actividad: Analiza y ejecuta la actividad de apropiación de conocimiento de la guía GUI-TERMINAL2.
+impedimentos: Identifica la ausencia del comando tree en Git Bash y procede a visualizar estructuras con comandos alternos de listado.
+plan: Continúa con la ejecución práctica de la guía CLI.
+________________________________________
