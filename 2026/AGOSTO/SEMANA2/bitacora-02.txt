@@ -1,0 +1,8 @@
+id: 1
+fecha: 13/08/2026
+hora: 12:45pm - 1:30pm
+autor: Miguel Serrano
+actividad: Inicia la sesión académica y atiende la presentación temática de la jornada.
+impedimentos: Sin impedimentos operativos
+plan: Comienza el taller práctico enfocado en el manejo de comandos en la terminal.
+________________________________________
