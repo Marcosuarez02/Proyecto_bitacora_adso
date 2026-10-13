@@ -6,3 +6,11 @@ actividad: Analiza y concluye actividad de rescate y recuperación de archivos h
 impedimentos: Identifica la referencia exacta del commit mediante historial de git log evitando ambigüedades.
 plan: Continúa con la práctica colaborativa guiada por el instructor.
 ________________________________________
+id: 2
+fecha: 24/09/2026
+hora: 2:30pm - 3:00pm
+autor: Andres Felipe Parra Aguilar
+actividad: Ejecuta pruebas de restauración alternativa comparando comandos git restore y git checkout.
+impedimentos: Aclara diferencias operativas entre versiones modernas y heredadas de Git para restaurar archivos.
+plan: Inicia actividad 3.4 de consolidación de bitácoras en repositorio Git tras el receso.
+________________________________________
