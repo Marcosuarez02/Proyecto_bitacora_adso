@@ -14,3 +14,11 @@ actividad: Coordina exposiciones estudiantiles enfocadas en el uso y dominio de 
 impedimentos: Sin impedimentos operativos
 plan: Inicia sesión con la guía técnica de Git y la consola de comandos.
 ________________________________________
+id: 3
+fecha: 03/09/2026
+hora: 1:45pm - 2:20pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Introduce guía técnica de Git y proyecta material audiovisual programado.
+impedimentos: Sin impedimentos operativos
+plan: Continúa con el análisis audiovisual del material didáctico.
+________________________________________
