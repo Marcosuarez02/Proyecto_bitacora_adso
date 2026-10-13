@@ -1,1 +1,2 @@
-# Proyecto_bitacora_adso
+# Proyecto bitacora
+## Integrantes [Andres Parra]
