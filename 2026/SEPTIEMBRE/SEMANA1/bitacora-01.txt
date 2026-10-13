@@ -1,0 +1,8 @@
+id: 1
+fecha: 03/09/2026
+hora: 12:45pm - 1:10pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Inicia sesión formativa y registra asistencia formal de la jornada académica.
+impedimentos: Sin impedimentos operativos
+plan: Da paso a la ronda de exposiciones estudiantiles programadas.
+________________________________________
