@@ -174,3 +174,12 @@ autor: Marco Antonio Suarez Gonzalez
 actividad: Fusiona en develop todos los avances completados en la rama feature/reportes.
 impedimentos: Sin impedimentos operativos
 plan: Integra los avances de la rama feature/reportes en develop.
+
+________________________________________
+id: 23
+fecha: 17/09/2026
+hora: 5:15pm - 5:22pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Cambia y retorna a la rama de producción main.
+impedimentos: Sin impedimentos operativos
+plan: Conmuta a la rama principal main.
