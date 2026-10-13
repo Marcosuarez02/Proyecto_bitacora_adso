@@ -6,3 +6,11 @@ actividad: Organiza el equipo de trabajo en parejas para el desarrollo de la act
 impedimentos: Sin impedimentos operativos
 plan: Procede con la revisión técnica de la bitácora del compañero asignado.
 ________________________________________
+id: 2
+fecha: 06/08/2026
+hora: 1:30pm - 2:15pm
+autor: Andres Felipe Parra Aguilar
+actividad: Revisa los casos de errores en documentación analizados durante la sesión explicativa.
+impedimentos: Sin impedimentos operativos
+plan: Continúa con el análisis de los casos prácticos de la guía.
+________________________________________
