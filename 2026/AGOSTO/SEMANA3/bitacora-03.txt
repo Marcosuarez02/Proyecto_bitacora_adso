@@ -30,3 +30,10 @@ actividad: Participa en actividad interactiva grupal en Kahoot evaluando concept
 impedimentos: Sin impedimentos operativos
 plan: Refuerza temáticas donde se identificaron dudas durante la dinámica evaluativa.
 ________________________________________
+id: 5
+fecha: 20/08/2026
+hora: 5:00pm - 6:30pm
+autor: Miguel Serrano
+actividad: Desarrolla actividad de transferencia navegando en consola exclusivamente con atajos de teclado.
+impedimentos: Corrige fluidez inicial de combinaciones de teclas practicando atajos directos del sistema.
+plan: Domina atajos rápidos de teclado para operar sin periférico de ratón.
