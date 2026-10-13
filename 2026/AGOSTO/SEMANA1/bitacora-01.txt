@@ -22,3 +22,11 @@ actividad: Audita la bitácora del compañero utilizando la lista de chequeo asi
 impedimentos: Despeja dudas iniciales con criterios de la lista de chequeo revisando cada ítem a cabalidad.
 plan: Pasa a la fase de socialización de los resultados de la auditoría.
 ________________________________________
+id: 4
+fecha: 06/08/2026
+hora: 3:30pm - 4:15pm
+autor: Andres Felipe Parra Aguilar
+actividad: Comprueba que los registros cumplan la condición de una sola tarea atómica por fila.
+impedimentos: Sin impedimentos operativos
+plan: Continúa con el ajuste y depuración de los registros técnicos.
+________________________________________
