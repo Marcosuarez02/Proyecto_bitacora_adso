@@ -14,3 +14,10 @@ actividad: Ejecuta pruebas de restauración alternativa comparando comandos git 
 impedimentos: Aclara diferencias operativas entre versiones modernas y heredadas de Git para restaurar archivos.
 plan: Inicia actividad 3.4 de consolidación de bitácoras en repositorio Git tras el receso.
 ________________________________________
+id: 3
+fecha: 24/09/2026
+hora: 3:30pm - 6:30pm
+autor: Miguel Serrano
+actividad: Desarrolla actividad 3.4 estructurando repositorios Git por carpetas de año, mes y semana en Git Bash.
+impedimentos: Sin impedimentos operativos
+plan: Finaliza la consolidación integral del proyecto de bitácoras en Git.
