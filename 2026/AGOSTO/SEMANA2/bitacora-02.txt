@@ -6,3 +6,11 @@ actividad: Inicia la sesión académica y atiende la presentación temática de 
 impedimentos: Sin impedimentos operativos
 plan: Comienza el taller práctico enfocado en el manejo de comandos en la terminal.
 ________________________________________
+id: 2
+fecha: 13/08/2026
+hora: 1:30pm - 2:20pm
+autor: Miguel Serrano
+actividad: Desarrolla el taller práctico enfocado en el uso y gestión de la terminal.
+impedimentos: Supera incompatibilidad de comandos nativos de Linux configurando el entorno adecuado en consola.
+plan: Conforma grupos de trabajo para la actividad de reflexión inicial.
+________________________________________
