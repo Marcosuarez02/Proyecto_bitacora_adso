@@ -1,3 +1,4 @@
 # Proyecto bitacora
-## Integrantes [Andres Parra]
+## Integrantes :
+## Andres Parra
 ## Marco Suarez
