@@ -14,3 +14,11 @@ actividad: Desarrolla el taller práctico enfocado en el uso y gestión de la te
 impedimentos: Supera incompatibilidad de comandos nativos de Linux configurando el entorno adecuado en consola.
 plan: Conforma grupos de trabajo para la actividad de reflexión inicial.
 ________________________________________
+id: 3
+fecha: 13/08/2026
+hora: 2:20pm - 3:00pm
+autor: Miguel Serrano
+actividad: Conforma equipo de investigación sobre actividades laborales inclusivas.
+impedimentos: Sin impedimentos operativos
+plan: Elabora el mapa mental organizando los conceptos esenciales tras el descanso.
+________________________________________
