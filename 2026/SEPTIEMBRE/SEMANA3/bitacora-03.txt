@@ -191,3 +191,11 @@ autor: Marco Antonio Suarez Gonzalez
 actividad: Fusiona el estado estable consolidado en develop directamente hacia la rama main.
 impedimentos: Sin impedimentos operativos
 plan: Integra los cambios aprobados en main.
+________________________________________
+id: 25
+fecha: 17/09/2026
+hora: 5:30pm - 5:38pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Simula un fallo alterando y dañando deliberadamente el archivo funcional.
+impedimentos: Sin impedimentos operativos
+plan: Provoca un escenario de corrupción controlada en el código.
