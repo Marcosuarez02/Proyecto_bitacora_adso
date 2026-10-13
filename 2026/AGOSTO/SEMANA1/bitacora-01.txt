@@ -1,0 +1,8 @@
+id: 1
+fecha: 06/08/2026
+hora: 12:45pm - 1:30pm
+autor: Andres Felipe Parra Aguilar
+actividad: Organiza el equipo de trabajo en parejas para el desarrollo de la actividad de auditoría.
+impedimentos: Sin impedimentos operativos
+plan: Procede con la revisión técnica de la bitácora del compañero asignado.
+________________________________________
