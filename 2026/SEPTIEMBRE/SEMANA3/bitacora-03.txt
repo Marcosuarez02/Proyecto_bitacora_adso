@@ -231,3 +231,11 @@ autor: Marco Antonio Suarez Gonzalez
 actividad: Restaura la versión original del archivo reporte.js retrocediendo tres commits en el historial.
 impedimentos: Sin impedimentos operativos
 plan: Recupera la versión limpia del archivo en el directorio local.
+________________________________________
+id: 30
+fecha: 17/09/2026
+hora: 6:08pm - 6:15pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Prepara en el Staging Area la versión limpia restaurada del archivo reporte.js.
+impedimentos: Sin impedimentos operativos
+plan: Coloca el archivo restaurado en el área de preparación.
