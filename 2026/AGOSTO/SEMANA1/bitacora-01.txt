@@ -14,3 +14,11 @@ actividad: Revisa los casos de errores en documentación analizados durante la s
 impedimentos: Sin impedimentos operativos
 plan: Continúa con el análisis de los casos prácticos de la guía.
 ________________________________________
+id: 3
+fecha: 06/08/2026
+hora: 2:15pm - 3:00pm
+autor: Andres Felipe Parra Aguilar
+actividad: Audita la bitácora del compañero utilizando la lista de chequeo asignada.
+impedimentos: Despeja dudas iniciales con criterios de la lista de chequeo revisando cada ítem a cabalidad.
+plan: Pasa a la fase de socialización de los resultados de la auditoría.
+________________________________________
