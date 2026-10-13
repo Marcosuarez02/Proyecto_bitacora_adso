@@ -207,3 +207,11 @@ autor: Marco Antonio Suarez Gonzalez
 actividad: Prepara en el Staging Area la modificación errónea del archivo reporte.js.
 impedimentos: Sin impedimentos operativos
 plan: Agrega el cambio corrupto al área de preparación.
+________________________________________
+id: 27
+fecha: 17/09/2026
+hora: 5:45pm - 5:52pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Realiza un commit que registra el error inducido para practicar el procedimiento de reversión.
+impedimentos: Sin impedimentos operativos
+plan: Registra el commit del fallo para iniciar la recuperación.
