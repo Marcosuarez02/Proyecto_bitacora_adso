@@ -38,3 +38,10 @@ actividad: Ejecuta comandos en la terminal validando la información y estructur
 impedimentos: Sin impedimentos operativos
 plan: Procede con la sesión de preguntas de cierre y el laboratorio práctico final.
 ________________________________________
+id: 6
+fecha: 13/08/2026
+hora: 5:30pm - 6:30pm
+autor: Miguel Serrano
+actividad: Culmina actividad de cierre, resolución de inquietudes técnicas y laboratorio final.
+impedimentos: Sin impedimentos operativos
+plan: Da por finalizada la jornada académica cumpliendo las metas programadas.
