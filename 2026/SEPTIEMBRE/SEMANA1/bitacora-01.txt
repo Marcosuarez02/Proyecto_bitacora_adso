@@ -30,3 +30,11 @@ actividad: Visualiza material didáctico audiovisual y analiza conceptos clave a
 impedimentos: Sin impedimentos operativos
 plan: Inicia sesión de análisis grupal tras el receso formativo.
 ________________________________________
+id: 5
+fecha: 03/09/2026
+hora: 3:30pm - 4:30pm
+autor: Marco Antonio Suarez Gonzalez
+actividad: Desarrolla análisis grupal sobre la herramienta de control de versiones Git.
+impedimentos: Sin impedimentos operativos
+plan: Habilita espacio para la actividad práctica de registro de bitácora.
+________________________________________
