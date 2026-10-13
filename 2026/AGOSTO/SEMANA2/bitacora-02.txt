@@ -30,3 +30,11 @@ actividad: Elabora mapa mental y matriz comparativa de hábitos cotidianos y est
 impedimentos: Sin impedimentos operativos
 plan: Articula los hábitos analizados con los estándares laborales exigidos.
 ________________________________________
+id: 5
+fecha: 13/08/2026
+hora: 4:30pm - 5:30pm
+autor: Miguel Serrano
+actividad: Ejecuta comandos en la terminal validando la información y estructura registradas.
+impedimentos: Sin impedimentos operativos
+plan: Procede con la sesión de preguntas de cierre y el laboratorio práctico final.
+________________________________________
