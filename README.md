@@ -2,3 +2,4 @@
 ## Integrantes :
 ## Andres Parra
 ## Marco Suarez
+## Miguel Serrano
