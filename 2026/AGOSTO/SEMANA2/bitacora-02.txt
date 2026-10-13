@@ -22,3 +22,11 @@ actividad: Conforma equipo de investigación sobre actividades laborales inclusi
 impedimentos: Sin impedimentos operativos
 plan: Elabora el mapa mental organizando los conceptos esenciales tras el descanso.
 ________________________________________
+id: 4
+fecha: 13/08/2026
+hora: 3:30pm - 4:30pm
+autor: Miguel Serrano
+actividad: Elabora mapa mental y matriz comparativa de hábitos cotidianos y estándares laborales.
+impedimentos: Sin impedimentos operativos
+plan: Articula los hábitos analizados con los estándares laborales exigidos.
+________________________________________
